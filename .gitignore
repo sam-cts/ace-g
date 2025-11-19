@@ -7,6 +7,7 @@ outputs/
 # datasets
 datasets/rio10
 datasets/indoor6
+datasets/indoor6_raw
 
 # pixi environments
 .pixi/*
