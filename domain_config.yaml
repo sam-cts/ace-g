@@ -1,0 +1,4 @@
+"domain_id": "{your/domain/id}"
+"posemesh_account": "{your/posemesh/account}"
+"posemesh_password": "{your/posemesh/password}"
+'map_endpoint': "https://dsc.auki.network/spatial/crosssection"
